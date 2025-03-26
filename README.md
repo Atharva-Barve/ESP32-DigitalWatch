@@ -29,8 +29,8 @@
 ## Code Implementation
 
 - Two versions of the firmware are available:
-- OLED Version: Uses an SSD1306 display.
-- TFT Version: Uses an ST7735 display.
+ - OLED Version: Uses an SSD1306 display.
+ - TFT Version: Uses an ST7735 display.
 - Each version is available in its respective folder.
 
 ## Install the required libraries in Arduino IDE:
